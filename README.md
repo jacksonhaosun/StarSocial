@@ -1,0 +1,2 @@
+# StarSocial
+Django Social Website
